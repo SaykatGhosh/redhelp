@@ -1,0 +1,35 @@
+01. NavBar   ---> Home | About | Service | Works| Team | Testimonial | brand | Contact 
+
+
+02. Header --> Header Slid Show (There will be 3 slides) 
+
+
+03. About us--> 
+
+
+
+04. CelebSolution Features & Service -->
+
+-> Our Service (SERVICE WE PROVIDE)
+
+
+05. Our Experts (Meet Our Experts)
+
+
+06. Client Reviews (TESTIMONIAL)
+
+
+07. CONTENT US 
+
+08. Footer 
+
+09. Footer 
+
+10. Our Partners (sliding)
+
+
+
+
+10. Works (PortFolio)
+
+Latest Works (Optional)
